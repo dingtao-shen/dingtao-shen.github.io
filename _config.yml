@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dingtao Shen"
+title                    : "profile.jpg"
 title_separator          : "-"
 name                     : &name "Dingtao Shen"
 description              : &description "personal description"
@@ -22,9 +22,9 @@ repository               : "dingtao-shen/dingtao-shen.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Dingtao Shen"
+  name             : "Dingtao (Jason) Shen"
   pronouns         : # example: "she/her"  
-  bio              : "Jason"
+  bio              : "Current Ph.D. student @ EMIA, HKUST"
   location         : "Hong Kong"
   employer         : "HKUST"
   uri              : # URL
