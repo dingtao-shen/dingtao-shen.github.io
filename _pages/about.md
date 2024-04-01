@@ -16,10 +16,14 @@ My current research focuses on high-fidelity solution methods for Boltzmann tran
 You can find my full CV here beyond the following basic information.
 
 ## Education
-- **Ph.D. in IIP**, &nbsp; the Hong Kong University of Science and Technology, &nbsp; 2027(expected)
-- **Master's degree in Mathematics**, &nbsp; University of Wisconsin - Madison, &nbsp;  May. 2023
-- **Bachelor's degree in Information and Computing Science**, &nbsp; Zhejiang University, &nbsp; Jun. 2021
-- **Visiting Student in Mathematics**, &nbsp; University of Wisconsin - Madison, &nbsp; Sep. 2022 - May. 2021
+- **Ph.D. in Individualized Interdisciplinary Program (IIP)**
+  - The Hong Kong University of Science and Technology, &nbsp; 2027(expected)
+- **Master's degree in Mathematics**
+  - University of Wisconsin - Madison, &nbsp;  May. 2023
+- **Bachelor's degree in Information and Computing Science**
+  - Zhejiang University, &nbsp; Jun. 2021
+- **Visiting Student in Mathematics**
+  - University of Wisconsin - Madison, &nbsp; 2020 Fall - 2021 Spring
   
 ## Experience
 - Teaching Assistant &nbsp; (2024 Spring)
