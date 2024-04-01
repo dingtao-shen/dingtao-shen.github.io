@@ -14,7 +14,7 @@ My current research focuses on high-fidelity solution methods for Boltzmann tran
 
 ---
 
-You can find my full CV here beyond the following basic information.
+_You can find my full CV here beyond the following basic information._
 ## Education
 - **Ph.D. in Individualized Interdisciplinary Program (IIP)**
   - The Hong Kong University of Science and Technology, &nbsp; 2027(expected)
