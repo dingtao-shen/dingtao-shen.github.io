@@ -11,54 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Individualized Interdisciplinary Program (IIP)**
+  * The Hong Kong University of Science and Technology, &nbsp; 2027(expected)
+* **Master's degree in Mathematics**
+  * University of Wisconsin - Madison, &nbsp;  May. 2023
+* **Bachelor's degree in Information and Computing Science**
+  * Zhejiang University, &nbsp; Jun. 2021
+* **Visiting Student in Mathematics**
+  * University of Wisconsin - Madison, &nbsp; 2020 Fall - 2021 Spring
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Teaching Assistant &nbsp; (2024 Spring)
+  * Division of Emerging Interdsciplinary Areas (EMIA), HKUST
+  * EMIA6500A (L1) - Discontinuous Galerkin Method
+* Research Assistant &nbsp; (full time, July 2021 - June 2022)
+  * School of Mathematical Sciences, ZJU
+  * Mentor: [Dr. Xinghui Zhong](https://person.zju.edu.cn/en/zhongxh)
