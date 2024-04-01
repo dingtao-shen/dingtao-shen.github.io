@@ -19,10 +19,7 @@ You can find my full CV here beyongd the following basic information.
 
 ## Education
 - Master's degree in Mathematics <p align="right">May 2023 2021 </p>
-
   University of Wisconsin - Madison
-  
 - Bachelor's degree in Information and Computing Science <p align="right">June 2023 </p>
-
   Zhejiang University
 ## Experience
