@@ -16,14 +16,15 @@ My current research focuses on high-fidelity solution methods for Boltzmann tran
 You can find my full CV here beyond the following basic information.
 
 ## Education
-- **Ph.D. in IIP**, the Hong Kong University of Science and Technology, 2027(expected)
-- **Master's degree in Mathematics**, University of Wisconsin - Madison, May 2023
-- **Bachelor's degree in Information and Computing Science**, Zhejiang University, June 2021
+- **Ph.D. in IIP** &ensp; | &ensp; the Hong Kong University of Science and Technology &ensp; |  &ensp; 2027(expected)
+- **Master's degree in Mathematics** &ensp; | &ensp; University of Wisconsin - Madison  &ensp; | &ensp;  May. 2023
+- **Bachelor's degree in Information and Computing Science** &ensp; | &ensp; Zhejiang University &ensp; | &ensp; Jun. 2021
+- **Visiting Student in Mathematics** &ensp; | &ensp; University of Wisconsin - Madison &ensp; | &ensp; Sep. 2022 - May. 2021
   
 ## Experience
-- 2024 Spring: Teaching Assistant
+- Teaching Assistant &ensp; | &ensp; 2024 Spring
   - Division of Emerging Interdsciplinary Areas (EMIA), HKUST
   - EMIA6500A (L1) - Discontinuous Galerkin Method
-- July 2021 - June 2022: Research Assistant (full time)
+- Research Assistant (full time) &ensp; | &ensp; July 2021 - June 2022
   - School of Mathematical Sciences, ZJU
   - Mentor: [Dr. Xinghui Zhong](https://person.zju.edu.cn/en/zhongxh)
