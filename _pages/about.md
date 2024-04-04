@@ -15,4 +15,4 @@ My current research focuses on high-fidelity solution methods for Boltzmann tran
 
 ---
 
-- _You can find my full CV here._
+- _You can find my full CV [here](/cv/)._
