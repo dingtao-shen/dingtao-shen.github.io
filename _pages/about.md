@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: " "
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## Welcome！
-
 I'm currently a Ph.D. candidate in Individualized Interdisciplinary Program (IIP), at the Division of Emerging Interdsciplinary Areas (EMIA), the Hong Kong University of Science and Technology. My primary supervisor is [Prof. Wei Su](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=wei-su-weisu), and my co-supervisor is [Prof. Yanguang Zhou](https://seng.hkust.edu.hk/about/people/faculty/yanguang-zhou).
 
 Before joining HKUST, I earned my Master's degree in Mathematics from the University of Wisconsin-Madison (May 2023) and a Bachelor's degree in Information and Computing Science from Zhejiang University (June 2021). From July 2021 to June 2022, I worked as a Research Assistant in the School of Mathematical Sciences at Zhejiang University, mentored by [Dr. Xinghui Zhong](https://person.zju.edu.cn/en/zhongxh).
