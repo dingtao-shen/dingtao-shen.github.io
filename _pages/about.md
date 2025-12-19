@@ -10,7 +10,7 @@ I'm currently a Ph.D. candidate in Individualized Interdisciplinary Program (IIP
 
 Before joining HKUST, I earned my Master's degree in Mathematics from the University of Wisconsin-Madison (May 2023) and a Bachelor's degree in Information and Computing Science from Zhejiang University (June 2021). From July 2021 to June 2022, I worked as a Research Assistant in the School of Mathematical Sciences at Zhejiang University, mentored by [Dr. Xinghui Zhong](https://person.zju.edu.cn/en/zhongxh).
 
-You can find my full CV here: [English CV (PDF)]({{ '/files/cv-en.pdf' | relative_url }}) [中文简历 (PDF)]({{ '/files/cv-zh.pdf' | relative_url }})
+You can find my full CV here: [English CV (PDF)]({{ '/files/cv-en.pdf' | relative_url }}) | [中文简历 (PDF)]({{ '/files/cv-zh.pdf' | relative_url }})
 
 ## Research
 My current research centers on high-fidelity solvers for Boltzmann transport equation–based modeling of phonon heat conduction at [Dr. SU's Research Group](https://weisu-mae.github.io/). 
