@@ -22,13 +22,13 @@ repository               : "dingtao-shen/dingtao-shen.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Dingtao (Bryan) Shen"
+  name             : "Dingtao Shen<br/>沈鼎涛"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate @ HKUST"
   location         : "Hong Kong"
   # employer         : "HKUST"
   uri              : # URL
-  email            : "dshenad@connect.ust.hk" 
+  email            : "dtshen@outlook.com" 
 
   # # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
