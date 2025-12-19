@@ -13,7 +13,7 @@ Before joining HKUST, I earned my Master's degree in Mathematics from the Univer
 You can find my full CV here: [English CV (PDF)]({{ '/files/cv-en.pdf' | relative_url }}) &#124; [中文简历 (PDF)]({{ '/files/cv-zh.pdf' | relative_url }})
 
 ## Research
-My current research centers on high-fidelity solvers for Boltzmann transport equation–based modeling of phonon heat conduction at [Dr. SU's Research Group](https://weisu-mae.github.io/). More broadly, I am interested in applied mathematics topics spanning scientific computing, high-performance computing, machine learning, and uncertainty quantification, etc.
+My current research centers on high-fidelity solvers for Boltzmann transport equation–based modeling of phonon heat conduction at [Prof. SU's Research Group](https://weisu-mae.github.io/). More broadly, I am interested in applied mathematics topics spanning scientific computing, high-performance computing, machine learning, and uncertainty quantification, etc.
 
 ### Publication
 <div style="display:flex; align-items:center; gap:16px; margin:12px 0;">
