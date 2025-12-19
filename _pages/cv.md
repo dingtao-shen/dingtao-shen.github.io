@@ -14,13 +14,13 @@ CV PDFs
 - [English CV (PDF)]({{ '/files/cv-en.pdf' | relative_url }})
 - [中文简历 (PDF)]({{ '/files/cv-zh.pdf' | relative_url }})
 
-<object data="{{ '/files/cv-en.pdf' | relative_url }}" type="application/pdf" width="100%" height="900">
+<!-- <object data="{{ '/files/cv-en.pdf' | relative_url }}" type="application/pdf" width="100%" height="900">
   <p>Unable to display the English CV. <a href="{{ '/files/cv-en.pdf' | relative_url }}">Download instead.</a></p>
 </object>
 
 <object data="{{ '/files/cv-zh.pdf' | relative_url }}" type="application/pdf" width="100%" height="900">
   <p>无法显示中文简历。<a href="{{ '/files/cv-zh.pdf' | relative_url }}">点击下载。</a></p>
-</object>
+</object> -->
 
 Education
 ======
