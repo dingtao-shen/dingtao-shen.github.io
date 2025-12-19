@@ -33,7 +33,8 @@ More broadly, I am interested in applied mathematics topics spanning scientific 
 </div>
 
 ### Talk
-- **Minisymposium @ EASIAM 2024**  
-  NURBS-Enhanced Finite Element Method for the Phonon Boltzmann Transport Equation
-- **HKUST SIAM Student Chapter Annual Meeting 2025**  
+**HKUST SIAM Student Chapter Annual Meeting 2025**  
   Accurate-Geometry-Embodied Finite Element Method for Boltzmann Transport Equation
+  
+**Minisymposium @ EASIAM 2024**  
+  NURBS-Enhanced Finite Element Method for the Phonon Boltzmann Transport Equation
