@@ -15,12 +15,13 @@ date = "2024"
 content = "Minisymposium, EASIAM 2024."
 
 [[items]]
-title = "Graduate Teaching Assistant, HKUST"
+title = "EMIA6500A — Special Topics: Discontinuous Galerkin Methods"
 subtitle = "Teaching Assistant"
 date = "2024"
-content = """
-Division of Emerging Interdisciplinary Areas (EMIA), HKUST.
+content = "Graduate-level course, Division of Emerging Interdisciplinary Areas (EMIA), HKUST."
 
-- EMIA6500A — Special Topics: Discontinuous Galerkin Methods (Graduate)
-- EMIA2020 — Cross-disciplinary Design Thinking (Undergraduate)
-"""
+[[items]]
+title = "EMIA2020 — Cross-disciplinary Design Thinking"
+subtitle = "Teaching Assistant"
+date = "2024, 2026"
+content = "Undergraduate-level course, Division of Emerging Interdisciplinary Areas (EMIA), HKUST."

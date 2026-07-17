@@ -184,7 +184,7 @@ export default function Profile({ author, social, features, researchInterests }:
                                         >
                                             <div className="text-center">
                                                 <div className="flex items-center justify-center space-x-2 mb-1">
-                                                    <p className="font-semibold">{messages.profile.workAddress}</p>
+                                                    <p className="font-semibold">{social.location || messages.profile.workAddress}</p>
                                                     {!isAddressPinned && (
                                                         <div className="flex items-center space-x-0.5 text-xs text-neutral-400 opacity-60">
                                                             <Pin className="h-2.5 w-2.5" />
