@@ -45,22 +45,16 @@ target = "about"
 href = "/"
 
 [[navigation]]
-title = "Publications"
+title = "Research"
 type = "page"
-target = "publications"
-href = "/publications"
+target = "research"
+href = "/research"
 
 [[navigation]]
-title = "Talks"
+title = "Academics"
 type = "page"
-target = "talks"
-href = "/talks"
-
-[[navigation]]
-title = "Teaching"
-type = "page"
-target = "teaching"
-href = "/teaching"
+target = "academics"
+href = "/academics"
 
 [[navigation]]
 title = "CV"

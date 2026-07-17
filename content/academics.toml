@@ -1,0 +1,26 @@
+type = "card"
+title = "Academics"
+description = "Talks I have given and courses I have assisted with."
+
+[[items]]
+title = "Accurate-Geometry-Embodied Finite Element Method for Boltzmann Transport Equation"
+subtitle = "Talk"
+date = "2025"
+content = "HKUST SIAM Student Chapter Annual Meeting 2025."
+
+[[items]]
+title = "NURBS-Enhanced Finite Element Method for the Phonon Boltzmann Transport Equation"
+subtitle = "Talk"
+date = "2024"
+content = "Minisymposium, EASIAM 2024."
+
+[[items]]
+title = "Graduate Teaching Assistant, HKUST"
+subtitle = "Teaching Assistant"
+date = "2024"
+content = """
+Division of Emerging Interdisciplinary Areas (EMIA), HKUST.
+
+- EMIA6500A — Special Topics: Discontinuous Galerkin Methods (Graduate)
+- EMIA2020 — Cross-disciplinary Design Thinking (Undergraduate)
+"""

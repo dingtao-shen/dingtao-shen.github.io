@@ -3,6 +3,7 @@
 import { useState, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import Image from 'next/image';
+import ReactMarkdown from 'react-markdown';
 import {
     MagnifyingGlassIcon,
     FunnelIcon,
@@ -68,9 +69,23 @@ export default function PublicationsList({ config, publications, embedded = fals
             <div className="mb-8">
                 <h1 className={`${embedded ? "text-2xl" : "text-4xl"} font-serif font-bold text-primary mb-4`}>{config.title}</h1>
                 {config.description && (
-                    <p className={`${embedded ? "text-base" : "text-lg"} text-neutral-600 dark:text-neutral-500 max-w-2xl`}>
-                        {config.description}
-                    </p>
+                    <div className={`${embedded ? "text-base" : "text-lg"} text-neutral-600 dark:text-neutral-500 max-w-2xl`}>
+                        <ReactMarkdown
+                            components={{
+                                p: ({ children }) => <p>{children}</p>,
+                                a: ({ ...props }) => (
+                                    <a
+                                        {...props}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        className="text-accent font-medium transition-all duration-200 rounded hover:bg-accent/10 hover:shadow-sm"
+                                    />
+                                ),
+                            }}
+                        >
+                            {config.description}
+                        </ReactMarkdown>
+                    </div>
                 )}
             </div>
 
@@ -214,6 +229,18 @@ export default function PublicationsList({ config, publications, embedded = fals
                                     </div>
                                 )}
                                 <div className="flex-grow">
+                                    {!embedded && (
+                                        <span
+                                            className={cn(
+                                                "inline-block mb-2 px-2 py-0.5 rounded text-xs font-medium tracking-wide",
+                                                pub.category === 'project'
+                                                    ? "bg-emerald-100 text-emerald-700 dark:bg-emerald-900/40 dark:text-emerald-300"
+                                                    : "bg-accent/10 text-accent"
+                                            )}
+                                        >
+                                            {pub.category === 'project' ? 'Project' : 'Publication'}
+                                        </span>
+                                    )}
                                     <h3 className={`${embedded ? "text-lg" : "text-xl"} font-semibold text-primary mb-2 leading-tight`}>
                                         <FormattedBibTeXText nodes={pub.titleNodes} fallback={pub.title} />
                                     </h3>
@@ -230,9 +257,11 @@ export default function PublicationsList({ config, publications, embedded = fals
                                             </span>
                                         ))}
                                     </p>
-                                    <p className="text-sm font-medium text-neutral-800 dark:text-neutral-600 mb-3">
-                                        {pub.journal || pub.conference} {pub.year}
-                                    </p>
+                                    {(pub.journal || pub.conference) && (
+                                        <p className="text-sm font-medium text-neutral-800 dark:text-neutral-600 mb-3">
+                                            {pub.journal || pub.conference} {pub.year}
+                                        </p>
+                                    )}
 
                                     {pub.description && (
                                         <p className="text-sm text-neutral-600 dark:text-neutral-500 mb-4 line-clamp-3">
@@ -241,7 +270,7 @@ export default function PublicationsList({ config, publications, embedded = fals
                                     )}
 
                                     <div className="flex flex-wrap gap-2 mt-auto">
-                                        {pub.doi && (
+                                        {pub.doi && pub.category !== 'project' && (
                                             <a
                                                 href={`https://doi.org/${pub.doi}`}
                                                 target="_blank"
@@ -275,7 +304,7 @@ export default function PublicationsList({ config, publications, embedded = fals
                                                 {messages.publications.abstract}
                                             </button>
                                         )}
-                                        {pub.bibtex && (
+                                        {pub.bibtex && pub.category !== 'project' && (
                                             <button
                                                 onClick={() => setExpandedBibtexId(expandedBibtexId === pub.id ? null : pub.id)}
                                                 className={cn(

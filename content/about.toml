@@ -4,9 +4,9 @@ title = "About"
 [profile]
 research_interests = [
   "Scientific Computing",
-  "High-Performance Computing",
+  "Numerical Method/Analysis",
   "Machine Learning",
-  "Uncertainty Quantification"
+  "AI"
 ]
 
 [[sections]]
@@ -21,9 +21,3 @@ type = "publications"
 title = "Selected Publications"
 filter = "selected"
 limit = 5
-
-[[sections]]
-id = "news"
-type = "list"
-title = "News"
-source = "news.toml"

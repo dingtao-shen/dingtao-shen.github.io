@@ -67,9 +67,12 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     return {};
   }
 
+  // Strip Markdown link syntax so the meta description is plain text.
+  const plainDescription = pageConfig.description?.replace(/\[([^\]]+)\]\([^)]*\)/g, '$1');
+
   return {
     title: pageConfig.title,
-    description: pageConfig.description,
+    description: plainDescription,
   };
 }
 

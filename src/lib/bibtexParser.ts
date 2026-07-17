@@ -62,6 +62,12 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
 
     // Parse preview field (remove braces if present)
     const preview = tags.preview?.replace(/[{}]/g, '');
+
+    // Parse category field (distinguishes publications from projects)
+    const category: 'publication' | 'project' =
+      tags.category?.replace(/[{}]/g, '').trim().toLowerCase() === 'project'
+        ? 'project'
+        : 'publication';
     const title = parseBibTeXInline(tags.title || 'Untitled');
 
     // Create publication object
@@ -91,9 +97,10 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
       description: cleanBibTeXString(tags.description || tags.note),
       selected,
       preview,
+      category,
 
       // Store original BibTeX (excluding custom fields)
-      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'keywords', 'code']),
+      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'keywords', 'code', 'category']),
     };
 
     // Clean up undefined fields
