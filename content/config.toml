@@ -1,0 +1,75 @@
+[site]
+title = "Dingtao Shen"
+description = "Personal website of Dingtao Shen, PhD candidate at HKUST working on high-fidelity solvers for the phonon Boltzmann transport equation."
+favicon = "/favicon.svg"
+last_updated = "July 2026"
+
+[author]
+name = "Dingtao Shen"
+title = "Ph.D. Candidate"
+institution = "HKUST"
+avatar = "/bio.jpg"
+
+[social]
+# Contact information (leave blank or delete to hide)
+email = "dtshen@outlook.com"
+location = "Hong Kong"
+google_scholar = "https://scholar.google.com/citations?user=rocwHG0AAAAJ&hl=en"
+orcid = "https://orcid.org/0009-0004-1711-5610"
+github = "https://github.com/dingtao-shen"
+linkedin = "https://www.linkedin.com/in/dingtao-shen"
+
+[features]
+# Show a like button on the about page
+enable_likes = false
+
+# Display all subpages on a single page
+enable_one_page_mode = false
+
+[i18n]
+enabled = false
+locales = ["en"]
+default_locale = "en"
+mode = "fixed"
+fixed_locale = "en"
+persist = false
+switcher = false
+
+[i18n.labels]
+en = "English"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Talks"
+type = "page"
+target = "talks"
+href = "/talks"
+
+[[navigation]]
+title = "Teaching"
+type = "page"
+target = "teaching"
+href = "/teaching"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"
+
+[[navigation]]
+title = "Photography"
+type = "link"
+target = "photography"
+href = "https://dingtaoshen.myportfolio.com/"

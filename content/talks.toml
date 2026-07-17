@@ -1,0 +1,15 @@
+type = "card"
+title = "Talks"
+description = "Talks and presentations I have given."
+
+[[items]]
+title = "Accurate-Geometry-Embodied Finite Element Method for Boltzmann Transport Equation"
+subtitle = "HKUST SIAM Student Chapter Annual Meeting 2025"
+date = "2025"
+content = "Contributed talk at the annual meeting of the HKUST SIAM Student Chapter."
+
+[[items]]
+title = "NURBS-Enhanced Finite Element Method for the Phonon Boltzmann Transport Equation"
+subtitle = "Minisymposium, EASIAM 2024"
+date = "2024"
+content = "Talk delivered at a minisymposium of the East Asia Section of SIAM (EASIAM) 2024."
