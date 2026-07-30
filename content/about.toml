@@ -3,9 +3,9 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Numerical Methods to Boltzmann Transport Equation",
-  "Machine Learning/AI Driven Scientific Computing",
-  "Multiscale Simulation"
+  "Numerical methods/analysis",
+  "ML/AI Driven Scientific Computing",
+  "Phonon Boltzman transport equation"
 ]
 
 [[sections]]
