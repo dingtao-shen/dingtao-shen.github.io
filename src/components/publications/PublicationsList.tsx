@@ -263,7 +263,7 @@ export default function PublicationsList({ config, publications, embedded = fals
                                         </p>
                                     )}
 
-                                    {pub.description && (
+                                    {pub.description && pub.category === 'project' && (
                                         <p className="text-sm text-neutral-600 dark:text-neutral-500 mb-4 line-clamp-3">
                                             {pub.description}
                                         </p>
@@ -278,6 +278,16 @@ export default function PublicationsList({ config, publications, embedded = fals
                                                 className="inline-flex items-center px-3 py-1 rounded-md text-xs font-medium bg-neutral-100 dark:bg-neutral-800 text-neutral-700 dark:text-neutral-300 hover:bg-accent hover:text-white transition-colors"
                                             >
                                                 DOI
+                                            </a>
+                                        )}
+                                        {pub.url && !pub.doi && pub.category !== 'project' && (
+                                            <a
+                                                href={pub.url}
+                                                target="_blank"
+                                                rel="noopener noreferrer"
+                                                className="inline-flex items-center px-3 py-1 rounded-md text-xs font-medium bg-neutral-100 dark:bg-neutral-800 text-neutral-700 dark:text-neutral-300 hover:bg-accent hover:text-white transition-colors"
+                                            >
+                                                {pub.url.includes('arxiv.org') ? 'arXiv' : 'Link'}
                                             </a>
                                         )}
                                         {pub.code && (

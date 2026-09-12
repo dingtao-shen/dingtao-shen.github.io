@@ -1,8 +1,6 @@
 I am currently a Ph.D. candidate at the Division of Emerging Interdisciplinary Areas (EMIA), the Hong Kong University of Science and Technology. My current research centers on the interdisciplinary topics across the computational mathematics and physics, specifically the high-fidelity and high-performance solver for the phonon Boltzmann transport equation. In addition, I have keen insterest in ML/AI driven scientific computing and AI for math.
 
-**I'm currently open to work opportunities primarily in quantative research and related areas. I am also interested in positions on algorithm research, AI for Science, etc.**
-
----
+**I'm currently open to work opportunities primarily in quantative research and related areas. I am also interested in positions on algorithm research, AI for Science, etc. You can find my full CV here: [English CV (PDF)](/files/cv-en.pdf)  |  [中文简历 (PDF)](/files/cv-zh.pdf).**
 
 ## Education
 
@@ -27,7 +25,3 @@ Visiting International Student Program in Mathematics
 **Zhejiang University**  
 *School of Mathematical Sciences*       *Jul. 2021 – Jun. 2022*  
 Research Assistant
-
-You can find my full CV here: [English CV (PDF)](/files/cv-en.pdf)  |  [中文简历 (PDF)](/files/cv-zh.pdf).
-
----
