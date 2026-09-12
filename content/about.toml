@@ -3,7 +3,7 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Numerical Methods/Analysis",
+  "Numerical Methods & Analysis",
   "ML/AI Driven Scientific Computing",
   "Phonon Boltzman Transport Equation"
 ]
@@ -13,10 +13,3 @@ id = "about"
 type = "markdown"
 source = "bio.md"
 title = "About"
-
-[[sections]]
-id = "featured_publications"
-type = "publications"
-title = "Selected Publications"
-filter = "selected"
-limit = 5

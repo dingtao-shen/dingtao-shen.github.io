@@ -57,12 +57,6 @@ target = "academics"
 href = "/academics"
 
 [[navigation]]
-title = "CV"
-type = "page"
-target = "cv"
-href = "/cv"
-
-[[navigation]]
 title = "Photography"
 type = "link"
 target = "photography"

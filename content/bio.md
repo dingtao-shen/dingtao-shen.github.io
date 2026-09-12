@@ -1,7 +1,33 @@
-I am currently a Ph.D. candidate in the Individualized Interdisciplinary Program (IIP), at the Division of Emerging Interdisciplinary Areas (EMIA), the Hong Kong University of Science and Technology. My primary supervisor is [Prof. Wei Su](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=wei-su-weisu), and my co-supervisor is [Prof. Yanguang Zhou](https://seng.hkust.edu.hk/about/people/faculty/yanguang-zhou).
+I am currently a Ph.D. candidate at the Division of Emerging Interdisciplinary Areas (EMIA), the Hong Kong University of Science and Technology. My current research centers on the interdisciplinary topics across the computational mathematics and physics, specifically the high-fidelity and high-performance solver for the phonon Boltzmann transport equation. In addition, I have keen insterest in ML/AI driven scientific computing and AI for math.
 
-Before joining HKUST, I earned my Master's degree in Mathematics from the University of Wisconsin–Madison (May 2023) and a Bachelor's degree in Information and Computing Science from Zhejiang University (June 2021). From July 2021 to June 2022, I worked as a Research Assistant in the School of Mathematical Sciences at Zhejiang University, mentored by [Prof. Xinghui Zhong](https://person.zju.edu.cn/en/zhongxh).
+**I'm currently open to work opportunities primarily in quantative research and related areas. I am also interested in positions on algorithm research, AI for Science, etc.**
 
-My current research centers on high-fidelity solvers for Boltzmann transport equation–based modeling of phonon heat conduction at [Prof. Su's Research Group](https://weisu-mae.github.io/). More broadly, I am interested in applied mathematics topics spanning scientific computing, high-performance computing, machine learning, and uncertainty quantification.
+---
 
-You can find my full CV here: [English CV (PDF)](/files/cv-en.pdf) &nbsp;|&nbsp; [中文简历 (PDF)](/files/cv-zh.pdf).
+## Education
+
+**The Hong Kong University of Science and Technology**  
+*EMIA, AIS*     *Aug. 2023 - Jul. 2027 (expected)*  
+**Ph.D.** in Individualized Interdisciplinary Program (IIP)
+
+**University of Wisconsin–Madison**  
+*Department of Mathematics*     *Aug. 2021 - May. 2023*  
+**Master** in Mathematics
+
+**Zhejiang University**  
+*School of Mathematical Sciences*       *Sep. 2021 - Jun. 2021*  
+**Bachelor** in Information and Computing Science
+
+## Experience
+
+**University of Wisconsin–Madison**  
+*Department of Mathematics*     *2020 Fall – 2021 Spring*  
+Visiting International Student Program in Mathematics
+
+**Zhejiang University**  
+*School of Mathematical Sciences*       *Jul. 2021 – Jun. 2022*  
+Research Assistant
+
+You can find my full CV here: [English CV (PDF)](/files/cv-en.pdf)  |  [中文简历 (PDF)](/files/cv-zh.pdf).
+
+---
